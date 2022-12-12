@@ -1,1 +1,1 @@
-# Projet-1_D-finissez-votre-strat-gie-d-apprentissage
+# Projet 1:Définissez votre stratégie d'apprentissage
